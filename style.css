@@ -101,7 +101,7 @@ header {
 }
 
 .hero-image img {
-  max-width: 420px;
+  /* max-width: 420px; */
   border-radius: 20px;
   box-shadow: 0 30px 60px rgba(0,0,0,.45);
 }
@@ -353,3 +353,4 @@ section h2 {
 @media (max-width: 480px) {
   .events-grid { grid-template-columns: 1fr; }
 }
+
